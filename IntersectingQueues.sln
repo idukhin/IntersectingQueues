@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectingQueues", "IntersectingQueues\IntersectingQueues.csproj", "{3C869FE1-3277-4218-BC81-0F458ACE388E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectingQueues.Test", "IntersectingQueues.Test\IntersectingQueues.Test.csproj", "{BFDF42D1-A4C8-478C-91AF-F9BF3B9C7683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C869FE1-3277-4218-BC81-0F458ACE388E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C869FE1-3277-4218-BC81-0F458ACE388E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C869FE1-3277-4218-BC81-0F458ACE388E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C869FE1-3277-4218-BC81-0F458ACE388E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFDF42D1-A4C8-478C-91AF-F9BF3B9C7683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDF42D1-A4C8-478C-91AF-F9BF3B9C7683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDF42D1-A4C8-478C-91AF-F9BF3B9C7683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDF42D1-A4C8-478C-91AF-F9BF3B9C7683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {208F9EA4-D83E-45C3-9223-111EB484407C}
+	EndGlobalSection
+EndGlobal
